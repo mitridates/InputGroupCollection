@@ -1,0 +1,14 @@
+.block
+{
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+
+pre{
+    font-size: 87.5%;
+    color: #e83e8c;
+    word-break: break-word;
+    background-color: lightblue;
+    padding: 1em;
+}
