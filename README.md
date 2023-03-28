@@ -5,6 +5,10 @@ The generated inputs can be sent as input array or a single input with a json ar
 
 Examples in [Online test in GitHub pages](https://mitridates.github.io/InputGroupCollection/test/index.html)
 
+![Example image](https://github.com/mitridates/InputGroupCollection/blob/master/test/example.png?raw=true)
+
+[Example image](test/example.png)
+
 ## Installation
 
 javascript module or iife function
