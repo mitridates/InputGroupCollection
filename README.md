@@ -7,8 +7,6 @@ Examples in [Online test in GitHub pages](https://mitridates.github.io/InputGrou
 
 ![Example image](https://github.com/mitridates/InputGroupCollection/blob/master/test/example.png?raw=true)
 
-[Example image](test/example.png)
-
 ## Installation
 
 javascript module or iife function
